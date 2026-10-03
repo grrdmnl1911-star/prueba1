@@ -1,25 +1,6 @@
-# calculator.py
-
-def add(a: float, b: float) -> float:
-    """Suma dos números."""
-    return a + b
-
-def subtract(a: float, b: float) -> float:
-    """Resta dos números."""
-    return a - b
-
-def multiply(a: float, b: float) -> float:
-    """Multiplica dos números."""
-    return a * b
-
-defUn script completo de Python ideal para alojar en un repositorio de GitHub. Incluye operaciones básicas, manejo de errores y una interfaz interactiva por consola.
-
-### Código de la Calculadora (`calculator.py`)
-
-```python
 """
 Calculadora Interactiva en Python
-Un proyecto simple e interactivo diseñado para ser compartido en GitHub.
+Un script diseñado para ejecutar en consola o alojar en GitHub.
 """
 
 def add(a: float, b: float) -> float:
